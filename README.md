@@ -11,7 +11,7 @@ O mosquito-kill-game é um divertido jogo em que os jogadores precisam matar mos
 ### Tela de Game Over![image](https://github.com/davidmello04/mosquito-kill-game/assets/102268159/6dd0c0d9-1861-4781-a949-84796455e951)
 
 
-## Para Jogar Acesse
+## Para Jogar Acessea
 
 https://matamosquito-game.netlify.app
 
